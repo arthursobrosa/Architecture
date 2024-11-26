@@ -16,9 +16,7 @@
 #### - View shouldn't have any references to a ViewModel;
 #### - View contains a delegate to connect itself to the ViewController;
 
-<p>
-  <a href="https://github.com/arthursobrosa/Architecture">Example project</a> with this architecture implemented
-</p>
+### Please check out the example project at the top of the page.
 
 ---
 
