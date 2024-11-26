@@ -16,7 +16,7 @@
 #### - View shouldn't have any references to a ViewModel;
 #### - View contains a delegate to connect itself to the ViewController;
 
-### Please check out the example project at the top of the page.
+#### (Please check out the example project at the top of the page)
 
 ---
 
